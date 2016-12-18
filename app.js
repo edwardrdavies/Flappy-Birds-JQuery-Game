@@ -1,1 +1,3 @@
-console.log('JS Loaded'); 
+$(function () {
+  var container = $('#container')
+})
